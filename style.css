@@ -29,6 +29,10 @@ h2, h3, h4 {
     margin-top: 20px;
 }
 
+h3 {
+    font-size: 18px;
+}
+
 .skill {
     margin-bottom: 15px;
 }
