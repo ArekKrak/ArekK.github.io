@@ -29,7 +29,7 @@ h2, h3, h4 {
     margin-top: 20px;
 }
 
-h3 {
+.section-title {
     font-size: 3rem;
 }
 
