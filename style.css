@@ -47,6 +47,21 @@ h2 {
     border-radius: 5px;
 }
 
+.linkedin-button {
+	display: inline-block;
+	padding: 10px 20px;
+	background-color: #0077B5;
+	color: #fff;
+	text-decoration: none;
+	font-size: 16px;
+	font-weight: bold;
+	border-radius: 4px;
+  }
+  
+  .linkedin-button:hover {
+	background-color: #046293;
+  }
+
 h2, h3, h4 {
     margin-top: 20px;
 }
