@@ -27,6 +27,20 @@ h2 {
 	margin: 0 0 10px;
 }
 
+ul {
+	list-style: none;
+	margin: 20px;
+	padding: 0;
+
+}
+
+ultwo {
+list-style: disc;
+margin-left: 40px;
+padding: 0;
+
+}
+
 .name {
     font-size: 3em;
     font-weight: bold;
