@@ -106,6 +106,12 @@ h2, h3, h4 {
     padding: 15px;
 }
 
+.project img {
+    width: 200px; /* Adjust the width as needed */
+    float: left;
+    margin-right: 10px; /* Optional margin for spacing */
+}
+
 .project-title {
     color: #4caf50;
 }
