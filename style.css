@@ -7,6 +7,10 @@ body {
     color: #fff;
     font-family: 'Open Sans', sans-serif;
     margin: 0;
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    position: relative;
 }
 
 .container {
@@ -39,17 +43,14 @@ h2 {
 }
 
 .profile-picture-container {
-    position: absolute; /* Set position to absolute to position it relative to the container */
-    top: 0; /* Adjust this value based on your design */
-    left: 0; /* Adjust this value based on your design */
     border: 4px solid #4caf50;
     border-radius: 5px;
     overflow: hidden;
 }
 
 .profile-picture-container img {
-    width: 100%;
-    height: auto;
+    width: 30%;
+    height: 30%;
 }
 
 .title {
