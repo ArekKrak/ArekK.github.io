@@ -1,5 +1,5 @@
 body {
-    background-image: url(images/html-background-pic.jpg);
+    background-image: "images/html-background-pic.jpg";
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -115,4 +115,3 @@ a {
 a:hover {
     text-decoration: underline;
 }
-
