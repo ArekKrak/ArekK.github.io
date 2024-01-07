@@ -1,4 +1,8 @@
 body {
+    background-image: "images/html-background-pic.jpg";
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
     background-color: #1e1e1e;
     color: #fff;
     font-family: 'Open Sans', sans-serif;
