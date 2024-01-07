@@ -19,7 +19,7 @@ body {
 
 .background-image {
     width: 100%;
-    height: 10%;
+    height: 15%;
     object-fit: cover;
     position: absolute;
     z-index: -1;
