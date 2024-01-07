@@ -10,6 +10,7 @@ body {
 }
 
 .container {
+    position: relative;
     width: 80%;
     margin: 0 auto;
     padding: 20px;
@@ -37,8 +38,18 @@ h2 {
     color: #4caf50; /* Green color for titles */
 }
 
+.profile-picture-container {
+    position: absolute; /* Set position to absolute to position it relative to the container */
+    top: 0; /* Adjust this value based on your design */
+    left: 0; /* Adjust this value based on your design */
+    border: 4px solid #4caf50;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
 .profile-picture-container img {
-    border: 4px solid #4caf50; /* Green border for profile picture */
+    width: 100%;
+    height: auto;
 }
 
 .title {
