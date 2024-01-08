@@ -1,6 +1,6 @@
 body {
     background-image: url(images/html-background-pic.jpg);
-    background-size: 100% 32%;
+    background-size: 100% 34%;
     background-position: center top;
     background-repeat: no-repeat;
     background-color: #333;
@@ -146,7 +146,7 @@ h2, h3, h4 {
 
 .section-title {
     color: #4caf50;
-    border-bottom: 2px solid #333;
+    border-bottom: 2px solid #4caf50;
     padding-bottom: 5px;
     margin-bottom: 20px;
 }
