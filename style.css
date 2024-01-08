@@ -94,11 +94,11 @@ padding: 0;
 	font-size: 16px;
 	font-weight: bold;
 	border-radius: 4px;
-  }
-  
-  .linkedin-button:hover {
-	background-color: #046293;
-  }
+}
+
+.linkedin-button:hover {
+background-color: #046293;
+}
 
 h2, h3, h4 {
     margin-top: 20px;
