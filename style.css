@@ -33,7 +33,7 @@ h3 {
 }
 
 h2 {
-    background-color: #333; /* Dark background color for the title */
+    background-color: rgba(88, 88, 88, 0.404); /* Dark background color for the title */
     padding: 10px;
     border-radius: 5px;
     font-size: 2em;
@@ -43,7 +43,7 @@ h2 {
 
 h5 {
     font-size: 1em;
-    background-color: #333; /* Dark background color for the title */
+    background-color: rgba(88, 88, 88, 0.404); /* Dark background color for the title */
     padding: 10px;
     border-radius: 5px;
 }
