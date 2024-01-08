@@ -9,6 +9,18 @@ body {
     margin: 0;
 }
 
+.banner {
+    background-color: #1e1e1e; /* Set the background color for the banner */
+    padding: 20px;
+    text-align: center;
+}
+
+.banner h1 {
+    margin: 0;
+    font-size: 2em;
+    color: #4caf50; /* Set the text color for the banner */
+}
+
 .header-background {
     width: 60%;
     height: 8px; /* Adjust the height as needed */
