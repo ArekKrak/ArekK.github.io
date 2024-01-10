@@ -127,6 +127,10 @@ h2, h3, h4 {
     padding: 15px;
 }
 
+.project-container {
+    margin-bottom: 20px;
+}
+
 .project-image {
     width: 200%; /* Adjust as needed */
     max-width: 400px; /* Set a maximum width */
