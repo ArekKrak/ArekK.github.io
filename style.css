@@ -155,6 +155,10 @@ h2, h3, h4 {
     font-weight: bold;
 }
 
+.project-section {
+    margin-bottom: 20px; /* This adds a 20px gap below each section */
+}
+
 a {
     color: #4caf50;
 }
