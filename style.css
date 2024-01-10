@@ -197,6 +197,6 @@ a:hover {
 }
 
 .certification-image:hover {
-    transform: scale(1.90);
+    transform: scale(2.00);
     transition: transform 0.3s ease;
 }
