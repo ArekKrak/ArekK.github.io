@@ -195,3 +195,7 @@ a:hover {
     text-shadow: 2px 2px 4px #000000;
     letter-spacing: 5px; /* Adjust the pixel value as needed */
 }
+
+.certification-image:hover {
+    transform: scale(1.20);
+}
