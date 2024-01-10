@@ -170,3 +170,24 @@ a {
 a:hover {
     text-decoration: underline;
 }
+
+/* Existing CSS code */
+/* ... (Your existing CSS styles) ... */
+
+/* New CSS snippet */
+.profile-picture-container img {
+    border-radius: 50%;
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.6);
+    transition: transform 0.3s ease;
+}
+
+.profile-picture-container img:hover {
+    transform: scale(1.05);
+}
+
+.name {
+    font-family: 'Bebas Neue', sans-serif; /* Replace 'YourChosenFont' with the font name you choose */
+    font-size: larger;
+    font-weight: bold;
+    text-shadow: 2px 2px 4px #000000;
+}
