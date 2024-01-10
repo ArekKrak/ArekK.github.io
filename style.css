@@ -190,4 +190,5 @@ a:hover {
     font-size: 36px;
     font-weight: bold;
     text-shadow: 2px 2px 4px #000000;
+    letter-spacing: 5px; /* Adjust the pixel value as needed */
 }
