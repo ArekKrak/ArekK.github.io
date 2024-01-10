@@ -30,6 +30,7 @@ h2 {
     font-size: 2em;
     font-weight: bold;
 	margin: 0 0 10px;
+    text-shadow: 2px 2px 4px #000000;
 }
 
 h5 {
@@ -80,6 +81,7 @@ padding: 0;
     background-color: rgba(58, 58, 58, 0.836); /* Dark background color for the title */
     padding: 10px;
     border-radius: 5px;
+    text-shadow: 2px 2px 4px #000000;
 }
 
 .linkedin-button {
